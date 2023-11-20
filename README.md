@@ -6,7 +6,7 @@
 <div align="center"><img src="https://www.wissenakademie.com/Files/Images/Blog/a3930eba2ce9432cb8b9a1204b151b09Prog-languages.png" /></div>
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hakkı+ODABAŞ..!..;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=C8661AD4&width=500&height=70&duration=4000&lines=Merhaba+Hoşgeldin!+👋;+Ben+Hakkı+ODABAŞ..!;" />
 </h1>
 <h2 align="center">A passionate Back-End developer from Türkey</h2>
 <br/>
