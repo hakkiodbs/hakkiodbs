@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hakkiodbs.hakkiodbs" />
+<br/>
+
 <div align="center"><img src="https://www.wissenakademie.com/Files/Images/Blog/a3930eba2ce9432cb8b9a1204b151b09Prog-languages.png" /></div>
 <br/>
 <h1 align="center">
