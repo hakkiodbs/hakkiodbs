@@ -53,3 +53,6 @@
 
 
 <hr/>
+
+<div align="center"><img src="https://hits.sh/github.com/hakkiodbs.svg?labelColor=000000" /></div>
+
