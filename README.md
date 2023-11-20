@@ -1,7 +1,7 @@
-<img align="right" src="https://count.getloli.com/get/@:hakkiodbs" alt=":hakkiodbs" />
+<div align="center"><img src="https://count.getloli.com/get/@:hakkiodbs?theme=asoul" alt=":hakkiodbs" /></div>
 <br/>
 
-<br/>
+
 
 <div align="center"><img src="https://www.wissenakademie.com/Files/Images/Blog/a3930eba2ce9432cb8b9a1204b151b09Prog-languages.png" /></div>
 <br/>
