@@ -8,9 +8,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=90491380&width=500&height=70&duration=4000&lines=Merhaba+Hoşgeldin!+👋;+Ben+Hakkı+ODABAŞ..!;" />
 </h1>
-<h2 align="center">A passionate Back-End developer from Türkey</h2>
+<h2 align="center">Türkiye/İstanbulda Back-End geliştirici olmaya çalışıyorum.</h2>
 <br/>
-<h3 align="Center" >Connect with me:</h3>
+<h3 align="Center" >Benimle iletişime geçmek isterseniz.:</h3>
 <p align="center">
 <a href="https://twitter.com/hakkiodbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakkiodbs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hakkıodabaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakkı-odabaş-563a4a105" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 </p>
 <hr/>
 
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
+<h2 align="center">⚒️ Öğrenmeye Çalıştığım Diller ve Araçlar ⚒️</h2>
 
 <br/>
 <div align="center">
@@ -33,7 +33,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Buda Benim yılanım :) 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hakkiodbs/hakkiodbs/output/github-contribution-grid-snake-dark.svg" />
   
@@ -42,7 +42,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statüm ⚡</h2>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=hakkiodbs&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hakkiodbs&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
