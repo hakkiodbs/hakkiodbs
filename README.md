@@ -1,60 +1,48 @@
-<div align="center"><img src="https://count.getloli.com/get/@:hakkiodbs?theme=asoul" alt=":hakkiodbs" /></div>
-<br/>
+<h1 align="center">Merhaba, ben Hakkı 👋</h1>
 
-
-
-<div align="center"><img src="https://www.wissenakademie.com/Files/Images/Blog/a3930eba2ce9432cb8b9a1204b151b09Prog-languages.png" /></div>
-<br/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=90491380&width=500&height=70&duration=4000&lines=Merhaba+Hoşgeldin!+👋;+Ben+Hakkı+ODABAŞ..!;" />
-</h1>
-<h2 align="center">Türkiye/İstanbulda Back-End geliştirici olmaya çalışıyorum.</h2>
-<br/>
-<h3 align="Center" >Benimle iletişime geçmek isterseniz.:</h3>
 <p align="center">
-<a href="https://twitter.com/hakkiodbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakkiodbs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hakkıodabaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakkı-odabaş-563a4a105" height="30" width="40" /></a>
-<a href="https://fb.com/h.odbs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h.odbs1" height="30" width="40" /></a>
-<a href="https://instagram.com/h.odbs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.odbs1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hakkiodabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hakkiodabas" height="30" width="40" /></a>
-</p>
-<hr/>
-
-<h2 align="center">⚒️ Öğrenmeye Çalıştığım Diller ve Araçlar ⚒️</h2>
-
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,github" /><br>
-    <br/> 
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql,php" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Buda Benim yılanım :) 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hakkiodbs/hakkiodbs/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Statüm ⚡</h2>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=hakkiodbs&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hakkiodbs&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=hakkiodbs&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-
+  Yapay zekayla yazılım geliştiriyorum, öğrendiklerimi YouTube'da <b>sıfırdan, birlikte</b> anlatıyorum.<br>
+  📍 İstanbul, Türkiye
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@Hakkiodabas"><img src="https://img.shields.io/badge/YouTube-@Hakkiodabas-red?logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://linktr.ee/hakkiodbs"><img src="https://img.shields.io/badge/Linktree-hakkiodbs-39E09B?logo=linktree&logoColor=white" alt="Linktree"></a>
+</p>
 
-<hr/>
+---
 
-<div align="center"><img src="https://hits.sh/github.com/hakkiodbs.svg?labelColor=000000" /></div>
+## 🎬 Sıfırdan Yapay Zeka (YouTube serisi)
 
+Hiç bilmeyenler için yapay zeka eğitimi: ChatGPT, Gemini, Claude ve Google Antigravity gibi araçları adım adım, sade Türkçeyle anlatıyorum. Kod bilmene gerek yok, ben de seninle birlikte öğreniyorum.
 
+👉 [Kanala git](https://www.youtube.com/@Hakkiodabas) · Her hafta yeni bölüm
+
+## 🛠️ Neler geliştiriyorum?
+
+- **Antigravity ↔ Telegram köprüsü:** Bilgisayardaki yapay zeka geliştirme ortamını telefondan Telegram ile yönetmek
+- **TulparEdit:** Yapay zekayla geliştirdiğim kendi video düzenleme programım
+- **Python araçları:** Günlük işleri otomatikleştiren küçük programlar (ör. [Proje_Olusturucu](https://github.com/hakkiodbs/Proje_Olusturucu), [Otomatik-f2](https://github.com/hakkiodbs/Otomatik-f2))
+
+## 🧰 Kullandıklarım
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+
+## 📊 GitHub istatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakkiodbs&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="İstatistikler">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakkiodbs&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Diller">
+</p>
+
+## 🤝 İletişim
+
+Bir proje fikrin ya da sorun varsa YouTube'da yorum yaz veya [Linktree](https://linktr.ee/hakkiodbs) üzerinden ulaş.
+
+<p align="center"><i>"Bilmiyorsan öğren, öğrendiysen paylaş."</i></p>
