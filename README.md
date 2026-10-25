@@ -60,12 +60,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hakkiodbs&theme=tokyonight&hide_border=true" alt="Seri">
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakkiodbs&theme=tokyo-night&hide_border=true&area=true" alt="Aktivite grafiği" width="100%">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hakkiodbs&theme=tokyonight&no-frame=true&row=1&column=6" alt="Kupalar">
-</p>
 
 ## 🤝 İletişim
 
